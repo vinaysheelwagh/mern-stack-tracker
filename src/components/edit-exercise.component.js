@@ -47,7 +47,6 @@ export default class EditExercise extends Component {
       .catch((error) => {
         console.log(error);
       })
-
   }
 
   onChangeUsername(e) {
